@@ -47,6 +47,9 @@ Reference:
 
 
 [1] Yin, Fei, et al. "3d gan inversion with facial symmetry prior." CVPR. 2023.
+
 [2] Xie, Jiaxin, et al. "High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization." CVPR. 2023.
+
 [3] Roich, Daniel, et al. "Pivotal tuning for latent-based editing of real images." ACM Transactions on graphics (TOG) 42.1 (2022): 1-13.
+
 [4] Alaluf, Yuval, et al. "Hyperstyle: Stylegan inversion with hypernetworks for real image editing." CVPR. 2022.
