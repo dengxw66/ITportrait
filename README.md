@@ -1,6 +1,6 @@
 # ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation
 <center class="half">
-    <img src="others/compress_piple_tmp2.pdf" width="800"/>
+    <img src="others/compress_piple_tmp2_00.png" width="800"/>
 </center>
 
 ### The continuity of the generated results.
