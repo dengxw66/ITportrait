@@ -1,20 +1,19 @@
 # ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation
-
-
-## Video results
-
+<center class="half">
+    <img src="others/compress_piple_tmp2.pdf" width="800"/>
+</center>
 
 ### The continuity of the generated results.
 
 <center class="half">
-    <img src="others/change.gif" width="800"/>
+    <img src="others/change.gif" width="600"/>
 </center>
 
 
 ### 3D view of the generated results
 
 <center class="half">
-    <img src="others/3dshow.gif" width="800"/>
+    <img src="others/3dshow.gif" width="600"/>
 </center>
 
 
