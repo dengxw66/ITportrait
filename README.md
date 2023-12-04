@@ -1,7 +1,7 @@
 # ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation
-
+- [Paper Link](https://arxiv.org/abs/2304.04364)
 - Abstract: Domain adaptation of 3D portraits has gained more and more attention. However, the transfer mechanism of existing methods is mainly based on vision or language, which ignores the potential of vision-language combined guidance. In this paper, we propose an Image-Text multi-modal framework, namely Image and Text portrait (ITportrait), for 3D portrait domain adaptation. ITportrait relies on a two-stage alternating training strategy. In the first stage, we employ a 3D Artistic Paired Transfer (APT) method for image-guided style transfer. APT constructs paired photo-realistic portraits to obtain accurate artistic poses, which helps ITportrait to achieve high-quality 3D style transfer. In the second stage, we propose a 3D Image-Text Embedding (ITE) approach in the CLIP space. ITE uses a threshold function to self-adaptively control the optimization direction of images or texts in the CLIP space. Comprehensive experiments prove that our ITportrait achieves state-of-the-art (SOTA) results and benefits downstream tasks.
-- [Paper](https://arxiv.org/abs/2304.04364)
+
 
 <center class="half">
     <img src="others/compress_piple_tmp2_00.png" width="800"/>
